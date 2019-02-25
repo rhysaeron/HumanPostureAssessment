@@ -5,7 +5,7 @@ This does not contain the datasets required to train the model, but includes the
 
 HumanPostureAssessment.h5
 This is the model that will be loaded into the pythons script to run the experiment.
-HumanPostureLive.py
+video_test.py
 This is the python script required to run the model, using the built in laptop camera to steam a live experiment.
 
 The environment that this will be run out of is spyder, which is built into Anaconda Navigator. Anaconda allows the python libraries to be stored and used within Spyder IDE. 

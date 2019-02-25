@@ -1,4 +1,4 @@
-# HumanPostureAssessment
+# Human Posture Assessment
 This repository contains a CNN system which analyses human posture. This simply detects whether the user has good or bad posture, from a perpendicular angle of where the user is facing.
 
 This does not contain the datasets required to train the model, but includes the model to use, which has already been trained. The files which will be downloaded are:
